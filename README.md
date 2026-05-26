@@ -4,8 +4,6 @@ Desenvolvedor focado em automação, agentes de IA e sistemas que resolvem probl
 
 Construindo soluções que conectam software, operações e inteligência artificial.
 
-⸻
-
 ## Sobre mim
 
 Minha transição para tecnologia aconteceu através da prática.
@@ -24,9 +22,7 @@ Meu foco atual está em:
 
 Mais do que criar aplicações, gosto de construir sistemas que realmente reduzem atrito operacional e melhoram processos.
 
-⸻
-
-Automação e Agentes de IA
+## Automação e Agentes de IA
 
 Desenvolvendo soluções com foco em:
 
@@ -48,9 +44,7 @@ Ferramentas
 * APIs REST
 * LangChain
 
-⸻
-
-Stack Principal
+## Stack Principal
 
 Frontend
 
@@ -85,9 +79,7 @@ IA & Automação
 * Prompt Engineering
 * Workflow Automation
 
-⸻
-
-Como eu trabalho
+## Como eu trabalho
 
 Gosto de entender o problema completo antes de pensar apenas na tecnologia.
 
@@ -101,9 +93,7 @@ Meu foco é criar soluções:
 
 Acredito que software bom não é apenas o que funciona, mas o que reduz complexidade operacional e melhora a vida de quem utiliza.
 
-⸻
-
-Objetivo
+## Objetivo
 
 Construir sistemas inteligentes que unam:
 
@@ -115,13 +105,10 @@ Construir sistemas inteligentes que unam:
 
 Transformando processos manuais em fluxos eficientes e escaláveis.
 
-⸻
-
-Contato
+## Contato
 
 * Portfolio: https://jefersonsann.com
 * linkedIn: https://linked.in/jefersonsann
 
-⸻
 
-Resolver problemas primeiro. Tecnologia depois.
+_Resolver problemas primeiro. Tecnologia depois._
