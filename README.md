@@ -1,53 +1,127 @@
 # Olá! 👋 Sou o Jaferson Santos!
 
-<div align="center">
-<a href="https://jefersonsann.vercel.app">
-<!--   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonsann&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> -->
-  <img width="100%" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonsann&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</a>
+Desenvolvedor focado em automação, agentes de IA e sistemas que resolvem problemas reais.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeferson-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeferson-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeferson-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeferson-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jeferson-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jeferson-Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Jeferson-Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  
-  <img align="center" alt="Jeferson-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jeferson-Prisma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-</div>
-  
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/jefersonsann/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Jeferson" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jefersonsann/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Jeferson" />
-  </a>
-  
-  <a href="https://twitter.com/jefersonsann" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram de Jeferson" />
-  </a>  
-</div>
-  
-</div>
+Construindo soluções que conectam software, operações e inteligência artificial.
 
-<!--
-**jefersonsann/jefersonsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⸻
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha transição para tecnologia aconteceu através da prática.
+
+Comecei resolvendo problemas operacionais, automatizando processos e conectando sistemas no dia a dia. Hoje desenvolvo aplicações, integrações e agentes de IA com foco em eficiência operacional e escalabilidade.
+
+Meu foco atual está em:
+
+* Desenvolvimento Fullstack
+* Agentes de IA
+* Automação de processos
+* Sistemas internos e ERPs
+* Integrações e APIs
+* Infraestrutura self-hosted
+* Ferramentas para operação e produtividade
+
+Mais do que criar aplicações, gosto de construir sistemas que realmente reduzem atrito operacional e melhoram processos.
+
+⸻
+
+Automação e Agentes de IA
+
+Desenvolvendo soluções com foco em:
+
+* Atendimento inteligente no WhatsApp
+* Agentes de IA para operação
+* Fluxos automatizados
+* Integração entre plataformas
+* Assistentes internos
+* Infraestrutura local e self-hosted
+
+Ferramentas
+
+* OpenAI
+* Claude
+* n8n
+* Ollama
+* Docker
+* Linux
+* APIs REST
+* LangChain
+
+⸻
+
+Stack Principal
+
+Frontend
+
+* React
+* Next.js
+* TailwindCSS
+* shadcn/ui
+
+Backend
+
+* Node.js
+* NestJS
+* Express
+* Python
+* PostgreSQL
+* Prisma
+
+Infraestrutura
+
+* Docker
+* Linux
+* Nginx
+* VPS
+* GitHub Actions
+
+IA & Automação
+
+* OpenAI APIs
+* AI Agents
+* RAG
+* n8n
+* Prompt Engineering
+* Workflow Automation
+
+⸻
+
+Como eu trabalho
+
+Gosto de entender o problema completo antes de pensar apenas na tecnologia.
+
+Meu foco é criar soluções:
+
+* práticas
+* escaláveis
+* organizadas
+* reutilizáveis
+* preparadas para crescimento
+
+Acredito que software bom não é apenas o que funciona, mas o que reduz complexidade operacional e melhora a vida de quem utiliza.
+
+⸻
+
+Objetivo
+
+Construir sistemas inteligentes que unam:
+
+* software
+* automação
+* IA
+* infraestrutura
+* operação
+
+Transformando processos manuais em fluxos eficientes e escaláveis.
+
+⸻
+
+Contato
+
+* Portfolio: https://jefersonsann.com
+* linkedIn: https://linked.in/jefersonsann
+
+⸻
+
+Resolver problemas primeiro. Tecnologia depois.
